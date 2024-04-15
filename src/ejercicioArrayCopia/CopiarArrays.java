@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class CopiarArrays {
 
     public static void main(String[] args) {
+        //Esto es un comentario para Git hub
         // Declaramos el arrayorig.
         int[] arrayOrig = {3, 10, 5, 7, 14, 20, 83};
 
